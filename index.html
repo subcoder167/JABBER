@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JABBER Bot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="chatbot">
+        <div class="topbar">
+            <div class="avatar"><img src="./icons/chatbot_512x512.png" alt=""></div>
+            <div class="name">JABBER</div>
+            <span id="credits">Credits</span>
+            <div class="credits">Created by: Subhajit Maji
+                <p>Icon by Gourav Ghosal</p>
+                <p>Namkaran by Jiniya Mondal</p>
+            </div>
+        </div>
+        <div class="chatbody" id="chatbody">
+            <ul id="chatlog"></ul>
+        </div>
+        <div class="bottombar">
+            <input type="text" placeholder="Type your message..." id="message" onkeyup="success()">
+            <button type="submit" id="send" value="enter" onclick="myFunction()">SEND</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
