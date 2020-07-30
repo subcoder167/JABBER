@@ -17,7 +17,7 @@ body{
 
 .chatbot{
     position: fixed;
-    height: 812px;
+    height: 480px;
     width: 100%;
     background-color: rgb(158, 219, 236);
     border-radius: 10px;
@@ -91,7 +91,7 @@ body{
 .chatbody{
     position: relative;
     z-index: -1;
-    height: 420px;
+    height: 380px;
     width: 100%;
     background: rgb(203, 228, 235);
     overflow-y: scroll;
