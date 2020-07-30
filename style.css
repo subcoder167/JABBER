@@ -17,8 +17,8 @@ body{
 
 .chatbot{
     position: fixed;
-    height: 500px;
-    width: 300px;
+    height: 812px;
+    width: 100%;
     background-color: rgb(158, 219, 236);
     border-radius: 10px;
 }
