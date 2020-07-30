@@ -65,17 +65,7 @@ const trigger = [
     ["Please stay home and maintain social distancing!"], //21
     ["!!Please stay in home quarantine!!"], //22
     ["Everyone will die eventually, well not me... ;)"], //23
-    ["Twinkle, twinkle, little star
-	How I wonder what you are
-	Up above the world so high
-	Like a diamond in the sky
-	Twinkle, twinkle little star
-	How I wonder what you are When the blazing sun is gone
-	When he nothing shines upon
-	Then you show your little light
-	Twinkle, twinkle, all the night
-	Twinkle, twinkle, little star
-	How I wonder what you are!"] //24
+    ["Twinkle, twinkle, little star How I wonder what you are Up above the world so high Like a diamond in the sky Twinkle, twinkle little star How I wonder what you are When the blazing sun is gone When he nothing shines upon Then you show your little light Twinkle, twinkle, all the night Twinkle, twinkle, little star How I wonder what you are!"] //24
 
   ];
   
