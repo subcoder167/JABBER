@@ -220,18 +220,3 @@ button:focus{
 button:active{
     transform: scale(1.1);
 }
-
-@media only screen and (max-width: 400px) {
-    body {
-      background-color: lightblue;
-    }
-
-    .chatbot{
-        height: 812px;
-        width: 100%;
-    }
-
-    .chatbody{
-        height: 718px;
-    }
-  }
